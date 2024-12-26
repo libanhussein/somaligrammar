@@ -1,6 +1,6 @@
 # Arar (Introduction)
 
-| **Arar**                                                                                          | **Introduction**                                                                                 |
+| **Somali**                                                                                          | **English**                                                                                 |
 |---------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
 | Afka laysku garo ama lagu wada hadlo waa waxa keliya ee daku uu uga duwan yahay xayawaanka kale, maxaa yeelay qofku wuxuu ra’yigiisa ku caddeysan karaa, ama uu ugu gudbin karaa dadka kale wuxuu doonayo waa Afka. | Recognized language, or that language which is spoken is the only thing discerning man from beast—this is a result of one being able to clarify and share their opinions with others because of spoken language. |
 | Afku wuxuu ka samaysan yahay erayo; erayaduna waxay ka unkan yihiin codad.                       | Language is made up of words; words originate from sounds.                                        |
