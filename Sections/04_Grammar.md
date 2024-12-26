@@ -8,3 +8,13 @@
 | - Qaybta hore waxaa lagu magacaabaa "CODAD", waxaana laga barta sida loogu dhawaaqo iyo sida loo qoro erayga. | - The first part is known as “Sounds,” and from it, one can learn the different categories all words fall under. |
 | - Qaybta labaad waxaa lagu magacaabaa "QAYBTA HADALKA", waxaana laga barta eray kasta qaybta uu ka tirsan yahay. | - The second part is known as “Speech,” and from it, one can learn the different categories all words fall under. |
 | - Qaybta saddexaad waxaa lagu magacaabaa "DHISMAHA WEERAHA", waxaana laga barta sida hagaagsan ee qaybaha hadalku ay isu raacracai karaan marka la dhisayo weeraha oona la doonaayo in laga ilaaliyo qaladka ka iman kara xagga NAXWAHA. | - The third part of grammar is known as “Construction of Concise Phrases,” and from it, one can learn the correct manner different words and phrases can be combined when making concise phrases free of grammatical errors. |
+
+<p align="center">
+  <a href="https://tinyurl.com/grammar-24" target="_blank">
+    <img src="https://tinyurl.com/grammar-24" alt="Somali Grammar by F.M Hunter" />
+  </a>
+</p>
+
+<p align="center">
+  <strong>Figure 3: Somali Grammar by F.M Hunter.</strong>
+</p>
