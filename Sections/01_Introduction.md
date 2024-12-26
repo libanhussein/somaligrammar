@@ -1,39 +1,9 @@
 # Arar (Introduction)
 
-### Table 1
-| **Af Soomaali**                                                                                   | **English**                                                                                       |
+| **Arar**                                                                                          | **Introduction**                                                                                 |
 |---------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
-| Buuggan, oo loogu magac daray **"Aasaaska Naxwaha Af Soomaaliga"**, wuxuu ka mid yahay buugaagtii | This book, titled **"The Foundations of Somali Grammar"**, is one of the books produced by the    |
-| lagu daabacay Soomaaliya sannadkii 1973, oo loogu talagalay barista af Soomaaliga.                | Somali Language Committee in 1973 for teaching Somali grammar.                                   |
-
----
-
-### Table 2
-| **Af Soomaali**                                                                                   | **English**                                                                                       |
-|---------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
-| Waxaa loo dejiyay inay noqoto hagid aasaasi ah oo loogu talagalay dadka bilaabaya barashada       | It was designed as a foundational guide for those beginning their journey into understanding      |
-| naxwaha af Soomaaliga, gaar ahaan ardayda dugsiyada iyo dadka kale ee afka baranaya.              | Somali grammar, particularly for students and others learning the language.                      |
-
----
-
-### Table 3
-| **Af Soomaali**                                                                                   | **English**                                                                                       |
-|---------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
-| Waxaan ujeedadu tahay in lagu caawiyo qofka baranaya af Soomaaliga inuu si sahlan ugu fahmo       | The purpose of the book is to help learners of Somali language easily grasp and understand the    |
-| xeerarka naxwaha aasaasiga ah, iyadoo loo marayo tusaalooyin iyo qeexitaan sahlan.               | basic rules of grammar through simplified examples and explanations.                             |
-
----
-
-### Table 4
-| **Af Soomaali**                                                                                   | **English**                                                                                       |
-|---------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
-| Waxaan ka mahadcelinaynaa dhammaan dadka ka qeyb qaatay diyaarinta buuggan, gaar ahaan xubnaha    | We extend our gratitude to everyone who contributed to the preparation of this book, especially  |
-| Guddiga Af Soomaaliga, kuwaas oo ku dadaalay inay keenaan buug tayo sare leh.                    | the members of the Somali Language Committee, who worked tirelessly to produce a high-quality    |
-
----
-
-### Table 5
-| **Af Soomaali**                                                                                   | **English**                                                                                       |
-|---------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
-| Waxaan rajaynaynaa inuu buuggan noqon doono mid anfac leh oo wax weyn ka tari doona aqoonta       | We hope this book will be beneficial and significantly contribute to the knowledge of the Somali |
-| af Soomaaliga iyo barashadiisa.                                                                   | language and its study.                                                                          |
+| Afka laysku garo ama lagu wada hadlo waa waxa keliya ee daku uu uga duwan yahay xayawaanka kale, maxaa yeelay qofku wuxuu ra’yigiisa ku caddeysan karaa, ama uu ugu gudbin karaa dadka kale wuxuu doonayo waa Afka. | Recognized language, or that language which is spoken is the only thing discerning man from beast—this is a result of one being able to clarify and share their opinions with others because of spoken language. |
+| Afku wuxuu ka samaysan yahay erayo; erayaduna waxay ka unkan yihiin codad.                       | Language is made up of words; words originate from sounds.                                        |
+| Codadka tiradoodu ma badna oo wa loobi karaa, hase yeeshee erayadu way faro badan yihiin.        | The number of sounds aren't many in number and can be summarized. On the contrary, words are many in number. |
+| Waagii hore codadka waxaa loogu isticmaali jirey inay isku gartaan inta markaas wada joogta ama ismaqli karta oo keliya. | Long before, sounds were used by people of a locality for basic communication.                   |
+| Dabadeedse dadkii waxay garteen in cod walba loo yeelo summad ama xarf u gaar ah, si ay ugu suuroqasho in dad kala foga ay isgaarsiiyan hadalkooda, ayna u gartaan ulajeeddada laga leeyahay. | Later, people realized that each sound could be constructed into a symbol or letter unique to that sound, making it possible for people far away to communicate (through letters and the like), as well as for them to understand the objective of the speech of those far away. |
