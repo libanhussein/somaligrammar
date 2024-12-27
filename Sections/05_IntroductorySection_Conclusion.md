@@ -1,6 +1,6 @@
 # Gabagabo (Conclusion)
 
-| **Af Soomaali**                                                                                  | **English**                                                                                       |
+| **Somali**                                                                                  | **English**                                                                                       |
 |--------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
 | Buuggan waxaa loogu talagalay inuu noqdo "AASAASKA NAXWAHA AF SOOMAALIGA", wuxuuna si kooban oo   | This book is intended to provide “The Foundations for Somali Grammar” and provides summarized,   |
 | tifaftiran uga sheekaynayaa codadka iyo qaybaha hadalkeennu uu ka kooban yahay.                   | as well as detailed explanations on the branches of grammar our language is composed of.         |
