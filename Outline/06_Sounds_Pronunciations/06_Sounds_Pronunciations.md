@@ -13,3 +13,13 @@
 | da’, le’eg, ri’, lo’, gu’.                                                                      | da’, le’eg, ri’, lo’, gu’.                                                                    |
 | **b) Shibbaneyaal sida:**                                                                       | **b) Consonants like:**                                                                       |
 | B, T, J, X, KH, D, R, S, SH, DH, C, G, F, Q, K, L, M, N, W, H, Y.                              | B, T, J, X, KH, D, R, S, SH, DH, C, G, F, Q, K, L, M, N, W, H, Y.                            |
+
+<p align="center">
+  <a href="https://pbs.twimg.com/media/EKuScEmUYAAM8Ji?format=jpg&name=4096x4096" target="_blank">
+    <img src="https://pbs.twimg.com/media/EKuScEmUYAAM8Ji?format=jpg&name=4096x4096" alt="Arabic/Somali Equivalents" />
+  </a>
+</p>
+
+<p align="center">
+  <strong>Figure 5: Arabic/Somali Equivalents.</strong>
+</p>
